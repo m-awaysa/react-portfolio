@@ -1,0 +1,8 @@
+
+.bg-custom-secondary {
+  background-color: rgba(44, 62, 80) !important;
+}
+
+ a:hover {
+  color: green !important;
+} 
